@@ -71,7 +71,7 @@ The repository contains a lot of test cases to cover both api test and repositor
     ./gradlew test
 
 # Code format
-
+    
 Use spotless for code format.
 
     ./gradlew spotlessJavaApply
@@ -79,3 +79,7 @@ Use spotless for code format.
 # Help
 
 Please fork and PR to improve the project.
+
+## Git Practice
+
+Learning Git using IntelliJ IDEA.
