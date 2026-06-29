@@ -82,6 +82,5 @@ Please fork and PR to improve the project.
 
 ## Team Update
 
-Alex updated the documentation.
-
+Shruthi updated Login API documentation.
 Is MY PROJECT CHANGED
